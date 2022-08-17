@@ -6,3 +6,6 @@
 - [Шрифт для макета](https://webfonts.pro/base-web-fonts/sans-serif-grotesque/897-tt-lakes.html)
 - Все стили должны быть по БЭМ. Стиль именования - two dashes: block-name__elem-name--mod-name--mod-val
 - На мобилке меню скроллится с помощью стандартного горизонтального скролла, см. свойство overflow.
+
+
+-Документация [БЭМ](https://ru.bem.info/methodology/quick-start/) (первые 4 раздела)
